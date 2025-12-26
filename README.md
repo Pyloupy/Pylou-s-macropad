@@ -7,7 +7,7 @@ My beautiful Case for this keyboard :). top and bot part fits together with simp
 
 There's also diffuser that'll be simple 1-2mm plane of white PLA, they'll be glued to the top part!
 
-Made with SOLIDWORKS (superior to Fusion360 :)) and it's the first time im designing piece with it (in the pas t iwas using blender ;-;), I hope it works!
+Made with SOLIDWORKS (superior to Fusion360 :)) and it's the first time im designing a piece with it (in the past i was using blender for 3d printing ;-;), I hope it works!
 
 ## PCB
 I used KiCad (for the first time) and i tried to make a compact and clean pcb with small reference and private jokes with my friends!
@@ -34,3 +34,8 @@ Here's the list of part for my project!
  - 5x M3x16mm screws
  - 5x M3x5mx4mm heatset inserts
  - 1x 3D printed case: top pink and the rest white
+
+## Special Thanks!
+My appreciation to the opheuspad project wich helped me many times! and to the hackalb community very responsive and kind!
+
+PS: I'm french, so forgive me for any english syntax errors :)

@@ -6,6 +6,7 @@ A custom macropad for the awesome project hackpad! Using a screen 4 keys a knob 
 My beautiful Case for this keyboard :). top and bot part fits together with simple M3 screws and heatset inserts and all 4 corners and one screw for the pcb. (I didn't add extra photos to show how it'll fit because its='s pretty self explanatory)
 
 There's also diffuser that'll be simple 1-2mm plane of white PLA, they'll be glued to the top part!
+
 <img src=assets/cadopen.png width="300"/>
 
 Made with SOLIDWORKS (superior to Fusion360 :)) and it's the first time im designing a piece with it (in the past i was using blender for 3d printing ;-;), I hope it works!

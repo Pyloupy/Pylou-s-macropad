@@ -36,6 +36,6 @@ Here's the list of part for my project!
  - 1x 3D printed case: top pink and the rest white
 
 ## Special Thanks!
-My appreciation to the opheuspad project wich helped me many times! and to the hackalb community very responsive and kind!
+My appreciation to the opheuspad project wich helped me many times! and to the hacklab community very responsive and kind!
 
 PS: I'm french, so forgive me for any english syntax errors :)

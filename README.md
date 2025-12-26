@@ -22,7 +22,7 @@ Made in KMK by reading docs, tutorials from [this guy](https://www.youtube.com/w
 It's pretty simple for the moment, but i plan on addings multiples features to configure what keys does what (from your pc), change whats on the screen, show the time, rgb modes etc when i'll build the pad. I'll update the code when everything will be done! 
 
 ## BOM
-Here's the list of part for my project!
+Here's the list of parts for my project!
 
  - 1x Seeed XIAO RP2040
  - 4x Through-hole 1N4148 Diodes
